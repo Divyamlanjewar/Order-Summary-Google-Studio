@@ -1,2 +1,3 @@
 # Order-Summary-Google-Studio
 An intuitive Google Studio dashboard providing a concise summary of order metrics and performance. 
+**This dynamic dashboard seamlessly integrates order data from various sources, offering a comprehensive view of key metrics such as sales volume, revenue, and average order value. Through interactive visualizations, trend analysis, and segmentation options, it enables users to gain actionable insights into sales patterns, product performance, and customer behavior. Designed for e-commerce managers and sales teams, this dashboard empowers data-driven decision-making and strategic planning to optimize sales performance and enhance customer satisfaction**
